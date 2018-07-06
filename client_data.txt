@@ -1,26 +1,26 @@
-18/06/2018	08:00	09:59	gate1	avianca	avc-001
-18/06/2018	10:00	11:59	gate1	avianca	avc-002
-18/06/2018	12:00	12:59	gate1	EasyFly	esf-001
-18/06/2018	13:00	13:59	gate1	Satena	sat-001
-18/06/2018	14:00	15:59	gate1	LATAM	lat-001
-18/06/2018	16:00	16:59	gate1	VivaAir	vva-001
-18/06/2018	17:00	17:59	gate1	Wingo	win-001
-18/06/2018	18:00	18:59	gate1	EasyFly	esf-002
-18/06/2018	19:00	19:59	gate1	Wingo	win-002
-18/06/2018	20:00	20:59	gate1	avianca	avc-003
-18/06/2018	21:00	21:59	gate1	LATAM	lat-002
-18/06/2018	22:00	22:59	gate1	avianca	avc-004
-18/06/2018	23:00	23:59	gate1	avianca	avc-005
-18/06/2018	08:00	09:59	gate2	avianca	avc-101
-18/06/2018	10:00	11:59	gate2	avianca	avc-102
-18/06/2018	12:00	12:59	gate2	EasyFly	esf-101
-18/06/2018	13:00	13:59	gate2	Satena	sat-001
-18/06/2018	14:00	15:59	gate2	LATAM	lat-101
-18/06/2018	16:00	16:59	gate2	VivaAir	vva-101
-18/06/2018	17:00	17:59	gate2	Wingo	win-101
-18/06/2018	18:00	18:59	gate2	EasyFly	esf-102
-18/06/2018	19:00	19:59	gate2	Wingo	win-102
-18/06/2018	20:00	20:59	gate2	avianca	avc-103
-18/06/2018	21:00	21:59	gate2	LATAM	lat-102
-18/06/2018	22:00	22:59	gate2	avianca	avc-104
-18/06/2018	23:00	23:59	gate2	avianca	avc-105
+18/06/2018,08:00,09:59,gate1,avianca,avc-001
+18/06/2018,10:00,11:59,gate1,avianca,avc-002
+18/06/2018,12:00,12:59,gate1,EasyFly,esf-001
+18/06/2018,13:00,13:59,gate1,Satena,sat-001
+18/06/2018,14:00,15:59,gate1,LATAM,lat-001
+18/06/2018,16:00,16:59,gate1,VivaAir,vva-001
+18/06/2018,17:00,17:59,gate1,Wingo,win-001
+18/06/2018,18:00,18:59,gate1,EasyFly,esf-002
+18/06/2018,19:00,19:59,gate1,Wingo,win-002
+18/06/2018,20:00,20:59,gate1,avianca,avc-003
+18/06/2018,21:00,21:59,gate1,LATAM,lat-002
+18/06/2018,22:00,22:59,gate1,avianca,avc-004
+18/06/2018,23:00,23:59,gate1,avianca,avc-005
+18/06/2018,08:00,09:59,gate2,avianca,avc-101
+18/06/2018,10:00,11:59,gate2,avianca,avc-102
+18/06/2018,12:00,12:59,gate2,EasyFly,esf-101
+18/06/2018,13:00,13:59,gate2,Satena,sat-001
+18/06/2018,14:00,15:59,gate2,LATAM,lat-101
+18/06/2018,16:00,16:59,gate2,VivaAir,vva-101
+18/06/2018,17:00,17:59,gate2,Wingo,win-101
+18/06/2018,18:00,18:59,gate2,EasyFly,esf-102
+18/06/2018,19:00,19:59,gate2,Wingo,win-102
+18/06/2018,20:00,20:59,gate2,avianca,avc-103
+18/06/2018,21:00,21:59,gate2,LATAM,lat-102
+18/06/2018,22:00,22:59,gate2,avianca,avc-104
+18/06/2018,23:00,23:59,gate2,avianca,avc-105
